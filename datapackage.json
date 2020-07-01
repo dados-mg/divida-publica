@@ -6,8 +6,6 @@
       "path": "https://raw.githubusercontent.com/dados-mg/divida-publica/data/divida-publica.csv",
       "profile": "tabular-data-resource",
       "resource type": "text/csv",
-      "created": "20200603",
-      "last modified": "20200603",
       "schema": {
         "fields": [
           {
@@ -137,8 +135,6 @@
       "path": "https://raw.githubusercontent.com/dados-mg/divida-publica/data/divida-publica-2020.csv",
       "profile": "tabular-data-resource",
       "resource type": "text/csv",
-      "created": "20200603",
-      "last modified": "20200603",
       "schema": {
         "fields": [
           {
