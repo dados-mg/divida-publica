@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "divida-publica",
-      "path": "https://raw.githubusercontent.com/dados-mg/divida-publica/data/divida-publica.csv",
+      "path": "data/divida-publica.csv",
       "profile": "tabular-data-resource",
       "resource type": "text/csv",
       "schema": {
@@ -132,7 +132,7 @@
     },
     {
       "name": "divida-publica-2020",
-      "path": "https://raw.githubusercontent.com/dados-mg/divida-publica/data/divida-publica-2020.csv",
+      "path": "data/divida-publica-2020.csv",
       "profile": "tabular-data-resource",
       "resource type": "text/csv",
       "schema": {
@@ -269,9 +269,10 @@
   "name": "divida-publica",
   "title": "Execução da Dívida Pública do Estado de Minas Gerais",
   "description": "Possui informações de pagamento da dívida pública do Estado, interna ou externa, incluindo separações relacionadas aos juros e encargos e amortizações efetuadas. Incluem dados inclusive da identificação dos contratos relacionados aos pagamentos.",
-  "homepage": "https://github.com/dados-mg/divida-publica/data",
+  "homepage": "http://dados.mg.gov.br/dataset/divida-publica",
   "private": "false",
   "state": "active",
+  "commit": "",
   "contributors": [
     {
       "title": "Diretoria de Transparência Ativa ",
