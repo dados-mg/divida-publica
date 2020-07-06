@@ -5,7 +5,7 @@
       "name": "divida-publica",
       "path": "data/divida-publica.csv",
       "profile": "tabular-data-resource",
-      "resource type": "text/csv",
+      "resourceType": "text/csv",
       "schema": {
         "fields": [
           {
@@ -134,7 +134,7 @@
       "name": "divida-publica-2020",
       "path": "data/divida-publica-2020.csv",
       "profile": "tabular-data-resource",
-      "resource type": "text/csv",
+      "resourceType": "text/csv",
       "schema": {
         "fields": [
           {
